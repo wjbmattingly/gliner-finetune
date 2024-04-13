@@ -1,0 +1,11 @@
+README.md
+setup.py
+gliner_finetune/__init__.py
+gliner_finetune/convert.py
+gliner_finetune/synthetic.py
+gliner_finetune/train.py
+gliner_finetune.egg-info/PKG-INFO
+gliner_finetune.egg-info/SOURCES.txt
+gliner_finetune.egg-info/dependency_links.txt
+gliner_finetune.egg-info/requires.txt
+gliner_finetune.egg-info/top_level.txt

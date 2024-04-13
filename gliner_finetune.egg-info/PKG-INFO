@@ -1,3 +1,25 @@
+Metadata-Version: 2.1
+Name: gliner-finetune
+Version: 0.0.1
+Summary: A library to create synthetic data with OpenAI and train a GLiNER model on that data.
+Home-page: https://github.com/wjbmattingly/gliner-finetune
+Author: William J.B. Mattingly
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.7, <=3.10
+Description-Content-Type: text/markdown
+
 # GLiNER-Finetune
 
 `gliner-finetune` is a Python library designed to generate synthetic data using OpenAI's GPT models, process this data, and then use it to train a GLiNER model. GLiNER is a framework for learning and inference in Named Entity Recognition (NER) tasks.
@@ -19,8 +41,6 @@ pip install gliner-finetune
 ## Quick Start
 
 The following example demonstrates how to generate synthetic data, process it, and train a GLiNER model using the `gliner-finetune` library.
-
-Make sure you have a .env file with your OPENAI_API_KEY set as a variable.
 
 ### Step 1: Generate Synthetic Data
 
