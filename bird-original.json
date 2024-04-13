@@ -1,0 +1,1224 @@
+[
+    {
+        "text": "The Alpine Swift primarily consumes flying insects such as wasps, bees, and flies. This bird captures its prey mid-air while swiftly flying through the alpine skies. It nests in high, rocky mountain crevices where it uses feathers and small sticks to construct a simple yet secure nesting environment.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["flying insects"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "wasps",
+            "bees",
+            "flies"
+        ],
+        "location_nest": [
+            "rocky mountain crevices"
+        ],
+        "item_nest": [
+            "feathers",
+            "small sticks"
+        ]
+    },
+    {
+        "text": "The Desert Lark feeds on seeds from desert bushes like the saxaul (Haloxylon spp.) and insects such as ants and beetles that thrive in arid environments. This bird builds its nest on the ground, using twigs and pebbles to create a camouflaged shelter amid the sparse desert vegetation.",
+        "generic_plant_food": ["seeds"],
+        "generic_animal_food": ["insects"],
+        "plant_food": [
+            "desert bushes",
+            "saxaul",
+            "Haloxylon spp."
+        ],
+        "specific_animal_food": [
+            "ants",
+            "beetles"
+        ],
+        "location_nest": [
+            "ground"
+        ],
+        "item_nest": [
+            "twigs",
+            "pebbles"
+        ]
+    },
+    {
+        "text": "The Arctic Tern enjoys a diet mainly consisting of small fish and krill, which it catches during its impressive long-distance flights over oceans. It nests on the ground in coastal areas or islands, forming colonies. The nests are typically lined with small stones and shells to protect the eggs from predators and the environment.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["small fish", "krill"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "small fish",
+            "krill"
+        ],
+        "location_nest": [
+            "coastal areas",
+            "islands"
+        ],
+        "item_nest": [
+            "small stones",
+            "shells"
+        ]
+    },
+    {
+        "text": "The Himalayan Bluetail feeds on a variety of insects including moths, caterpillars, and spiders. It forages in forested regions of high-altitude mountains. For nesting, it prefers secluded spots under rock overhangs or in dense shrubs, using moss and leaves to construct a well-hidden nest.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["insects"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "moths",
+            "caterpillars",
+            "spiders"
+        ],
+        "location_nest": [
+            "rock overhangs",
+            "dense shrubs"
+        ],
+        "item_nest": [
+            "moss",
+            "leaves"
+        ]
+    },
+    {
+        "text": "The Scarlet Ibis consumes a diet rich in crustaceans, small fish, and insects, which contribute to its striking red plumage. It inhabits mangrove swamps and wetlands where it builds nests high in the trees, using sticks and vines intricately woven to ensure stability against the elements.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["crustaceans", "small fish", "insects"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "crustaceans",
+            "small fish",
+            "insects"
+        ],
+        "location_nest": [
+            "mangrove swamps",
+            "wetlands"
+        ],
+        "item_nest": [
+            "sticks",
+            "vines"
+        ]
+    },
+    {
+        "text": "The Snowy Owl mainly feeds on small mammals, particularly lemmings. It occasionally preys on birds and fish when mammals are scarce. Its nests are built directly on the ground in Arctic tundra regions, using feathers and soft plant materials to insulate the nest from the cold.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["small mammals", "birds", "fish"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "lemmings"
+        ],
+        "location_nest": [
+            "Arctic tundra"
+        ],
+        "item_nest": [
+            "feathers",
+            "soft plant materials"
+        ]
+    },
+    {
+        "text": "The Greater Flamingo feeds on algae, small crustaceans, and aquatic insects by filter feeding in shallow waters. It nests in mudflats where it constructs mounds from mud, straw, and stones to keep its eggs above water level.",
+        "generic_plant_food": ["algae"],
+        "generic_animal_food": ["small crustaceans", "aquatic insects"],
+        "plant_food": [
+            "algae"
+        ],
+        "specific_animal_food": [
+            "small crustaceans",
+            "aquatic insects"
+        ],
+        "location_nest": [
+            "mudflats"
+        ],
+        "item_nest": [
+            "mud",
+            "straw",
+            "stones"
+        ]
+    },
+    {
+        "text": "The Kingfisher consumes mainly small fish and aquatic invertebrates. It nests in burrows along riverbanks, excavating tunnels in sandy or earthy banks with its strong beak and feet.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["small fish", "aquatic invertebrates"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "small fish",
+            "aquatic invertebrates"
+        ],
+        "location_nest": [
+            "riverbanks"
+        ],
+        "item_nest": [
+            "sand",
+            "earth"
+        ]
+    },
+    {
+        "text": "The Harpy Eagle preys on medium-sized mammals and birds, such as monkeys and sloths. It builds its nest high in the canopy of tropical rainforests using large sticks and green leaves to camouflage its presence.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["medium-sized mammals", "birds"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "monkeys",
+            "sloths"
+        ],
+        "location_nest": [
+            "tropical rainforest canopy"
+        ],
+        "item_nest": [
+            "large sticks",
+            "green leaves"
+        ]
+    },
+    {
+        "text": "The Common Nightingale feeds on insects and berries. It nests close to the ground in dense undergrowth, constructing its nest with leaves and fine grasses to provide a hidden, secure environment for its offspring.",
+        "generic_plant_food": ["berries"],
+        "generic_animal_food": ["insects"],
+        "plant_food": [
+            "berries"
+        ],
+        "specific_animal_food": [
+            "insects"
+        ],
+        "location_nest": [
+            "dense undergrowth"
+        ],
+        "item_nest": [
+            "leaves",
+            "fine grasses"
+        ]
+    },
+    {
+        "text": "The Yellow Warbler consumes insects and some berries. It builds its nest in low bushes or trees, using grasses and plant fibers intricately woven to form a cup-shaped nest.",
+        "generic_plant_food": ["berries"],
+        "generic_animal_food": ["insects"],
+        "plant_food": [
+            "berries"
+        ],
+        "specific_animal_food": [
+            "insects"
+        ],
+        "location_nest": [
+            "low bushes",
+            "trees"
+        ],
+        "item_nest": [
+            "grasses",
+            "plant fibers"
+        ]
+    },
+    {
+        "text": "The Painted Bunting feeds on seeds, insects, and small fruits. It nests in dense shrubbery, using fine grasses and strips of bark to construct a robust and colorful nest.",
+        "generic_plant_food": ["seeds", "small fruits"],
+        "generic_animal_food": ["insects"],
+        "plant_food": [
+            "seeds",
+            "small fruits"
+        ],
+        "specific_animal_food": [
+            "insects"
+        ],
+        "location_nest": [
+            "dense shrubbery"
+        ],
+        "item_nest": [
+            "fine grasses",
+            "strips of bark"
+        ]
+    },
+    {
+        "text": "The Barn Swallow feeds on flying insects. It constructs its nest almost exclusively on human-made structures, using mud and straw to craft a cup-shaped nest that is attached to vertical walls under eaves or inside barns.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["flying insects"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "flying insects"
+        ],
+        "location_nest": [
+            "human-made structures"
+        ],
+        "item_nest": [
+            "mud",
+            "straw"
+        ]
+    },
+    {
+        "text": "The Blue Jay feeds on nuts, seeds, and occasionally small vertebrates and eggs. It builds its nest in the forks of large trees using twigs, bark, and roots, lining it with soft grass for comfort.",
+        "generic_plant_food": ["nuts", "seeds"],
+        "generic_animal_food": ["small vertebrates", "eggs"],
+        "plant_food": [
+            "nuts",
+            "seeds"
+        ],
+        "specific_animal_food": [
+            "small vertebrates",
+            "eggs"
+        ],
+        "location_nest": [
+            "large trees"
+        ],
+        "item_nest": [
+            "twigs",
+            "bark",
+            "roots",
+            "soft grass"
+        ]
+    },
+    {
+        "text": "The Red-tailed Hawk primarily feeds on rodents and other small mammals, but it also captures birds and snakes. It nests in high places like tree tops or cliff ledges, using sticks and branches, often reusing and adding to old nests each year.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["rodents", "small mammals", "birds", "snakes"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "rodents",
+            "small mammals"
+        ],
+        "location_nest": [
+            "tree tops",
+            "cliff ledges"
+        ],
+        "item_nest": [
+            "sticks",
+            "branches"
+        ]
+    },
+    {
+        "text": "The Ruby-throated Hummingbird consumes nectar from flowers, small insects, and spiders. It constructs its nest on the branch of a tree, using plant down and spider silk to create a stretchy, tiny cup that expands with the growing chicks.",
+        "generic_plant_food": ["nectar"],
+        "generic_animal_food": ["small insects", "spiders"],
+        "plant_food": [
+            "nectar"
+        ],
+        "specific_animal_food": [
+            "small insects",
+            "spiders"
+        ],
+        "location_nest": [
+            "tree branches"
+        ],
+        "item_nest": [
+            "plant down",
+            "spider silk"
+        ]
+    },
+    {
+        "text": "The Eurasian Magpie feeds on a variety of foods including insects, small mammals, nuts, and seeds. It is known for its large, dome-shaped nests built in trees or large bushes. The nests are constructed from branches and twigs, lined with mud and leaves.",
+        "generic_plant_food": ["nuts", "seeds"],
+        "generic_animal_food": ["insects", "small mammals"],
+        "plant_food": [
+            "nuts",
+            "seeds"
+        ],
+        "specific_animal_food": [
+            "insects",
+            "small mammals"
+        ],
+        "location_nest": [
+            "trees",
+            "large bushes"
+        ],
+        "item_nest": [
+            "branches",
+            "twigs",
+            "mud",
+            "leaves"
+        ]
+    },
+    {
+        "text": "The Peregrine Falcon primarily hunts birds and occasionally small mammals, capturing its prey in dramatic mid-air pursuits. It often nests on high cliff ledges or tall urban buildings, constructing sparse nests from collected sticks and debris.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["birds", "small mammals"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "birds",
+            "small mammals"
+        ],
+        "location_nest": [
+            "cliff ledges",
+            "urban buildings"
+        ],
+        "item_nest": [
+            "sticks",
+            "debris"
+        ]
+    },
+    {
+        "text": "The Cattle Egret feeds on insects, especially those stirred up by livestock, and small amphibians. It builds its nest in colonies in low trees or bushes, using twigs and reeds to form a robust platform.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["insects", "small amphibians"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "insects",
+            "small amphibians"
+        ],
+        "location_nest": [
+            "low trees",
+            "bushes"
+        ],
+        "item_nest": [
+            "twigs",
+            "reeds"
+        ]
+    },
+    {
+        "text": "The Osprey feeds almost exclusively on fish, which it catches with spectacular dives into water. Its nest is typically located on top of poles, dead trees, or other high perches where it constructs a large pile of sticks, often reused and added to each breeding season.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["fish"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "fish"
+        ],
+        "location_nest": [
+            "poles",
+            "dead trees",
+            "high perches"
+        ],
+        "item_nest": [
+            "sticks"
+        ]
+    },
+    {
+        "text": "The Great Horned Owl preys on a wide variety of animals including rodents, birds, and even larger mammals like raccoons. It typically nests in the hollows of large trees or in abandoned nests of other large birds, lining the space with feathers and fur from its prey.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["rodents", "birds", "larger mammals"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "rodents",
+            "birds",
+            "raccoons"
+        ],
+        "location_nest": [
+            "large trees",
+            "abandoned nests"
+        ],
+        "item_nest": [
+            "feathers",
+            "fur"
+        ]
+    },
+    {
+        "text": "The Atlantic Puffin feeds primarily on small fish and squid, caught by diving underwater. It nests in burrows dug into coastal cliff sides, lining the nest with grass, feathers, and seaweed to keep the interior dry and insulated.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["small fish", "squid"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "small fish",
+            "squid"
+        ],
+        "location_nest": [
+            "coastal cliff sides"
+        ],
+        "item_nest": [
+            "grass",
+            "feathers",
+            "seaweed"
+        ]
+    },
+    {
+        "text": "Primarily subsisting on birds and small mammals, the Peregrine Falcon captures its prey during dramatic mid-air pursuits. High cliff ledges or tall urban buildings serve as nesting sites, where nests are sparsely constructed from collected sticks and debris.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["birds", "small mammals"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "birds",
+            "small mammals"
+        ],
+        "location_nest": [
+            "cliff ledges",
+            "urban buildings"
+        ],
+        "item_nest": [
+            "sticks",
+            "debris"
+        ]
+    },
+    {
+        "text": "Inhabiting low trees or bushes, the Cattle Egret builds its nests in colonies, forming robust platforms from twigs and reeds. It primarily feeds on insects and small amphibians, especially those disturbed by grazing livestock.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["insects", "small amphibians"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "insects",
+            "small amphibians"
+        ],
+        "location_nest": [
+            "low trees",
+            "bushes"
+        ],
+        "item_nest": [
+            "twigs",
+            "reeds"
+        ]
+    },
+    {
+        "text": "Feeding almost exclusively on fish, the Osprey performs spectacular dives into water to catch its prey. Its nests are located atop poles, dead trees, or other high perches, where large piles of sticks are accumulated, often reused each breeding season.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["fish"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "fish"
+        ],
+        "location_nest": [
+            "poles",
+            "dead trees",
+            "high perches"
+        ],
+        "item_nest": [
+            "sticks"
+        ]
+    },
+    {
+        "text": "The Great Horned Owl, preying on a variety of animals including rodents, birds, and larger mammals such as raccoons, nests in the hollows of large trees or in the abandoned nests of other large birds, utilizing feathers and fur from its prey for lining.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["rodents", "birds", "larger mammals"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "rodents",
+            "birds",
+            "raccoons"
+        ],
+        "location_nest": [
+            "large trees",
+            "abandoned nests"
+        ],
+        "item_nest": [
+            "feathers",
+            "fur"
+        ]
+    },
+    {
+        "text": "Specializing in feeding on small fish and squid by diving underwater, the Atlantic Puffin digs burrows into coastal cliff sides for nesting. The interior is lined with grass, feathers, and seaweed to maintain a dry and insulated environment.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["small fish", "squid"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "small fish",
+            "squid"
+        ],
+        "location_nest": [
+            "coastal cliff sides"
+        ],
+        "item_nest": [
+            "grass",
+            "feathers",
+            "seaweed"
+        ]
+    },
+    {
+        "text": "Specializing in the capture of birds and small mammals through high-speed aerial chases, the Peregrine Falcon makes its home on urban high-rises and precipitous cliff faces. Nests are minimalistic, constructed from scavenged sticks and miscellaneous debris.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["birds", "small mammals"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "birds",
+            "small mammals"
+        ],
+        "location_nest": [
+            "urban high-rises",
+            "cliff faces"
+        ],
+        "item_nest": [
+            "sticks",
+            "debris"
+        ]
+    },
+    {
+        "text": "Building its nest within colonies in bushy trees or shrubs, the Cattle Egret crafts sturdy platforms from twigs and reeds. It predominantly consumes insects and small amphibians, particularly those agitated by nearby livestock.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["insects", "small amphibians"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "insects",
+            "small amphibians"
+        ],
+        "location_nest": [
+            "bushy trees",
+            "shrubs"
+        ],
+        "item_nest": [
+            "twigs",
+            "reeds"
+        ]
+    },
+    {
+        "text": "The Osprey, a master at fish capture, dives dramatically to seize its aquatic prey. Its nesting sites are predominantly on high structures like poles or dead trees, where it accumulates large mounds of sticks, continuously adding to them each year.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["fish"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "fish"
+        ],
+        "location_nest": [
+            "high structures",
+            "dead trees"
+        ],
+        "item_nest": [
+            "sticks"
+        ]
+    },
+    {
+        "text": "The Great Horned Owl opts for a varied diet, hunting everything from rodents to raccoons, and chooses secluded nesting sites in tree hollows or reused large bird nests, where it lines its abode with a mix of plucked feathers and captured fur.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["rodents", "raccoons"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "rodents",
+            "raccoons"
+        ],
+        "location_nest": [
+            "tree hollows",
+            "reused nests"
+        ],
+        "item_nest": [
+            "feathers",
+            "fur"
+        ]
+    },
+    {
+        "text": "With a diet focused on small fish and squid, the Atlantic Puffin undertakes nesting by tunneling into coastal cliffs. Its nests are lined with natural insulators such as seaweed, grass, and feathers, creating a snug environment for its chicks.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["small fish", "squid"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "small fish",
+            "squid"
+        ],
+        "location_nest": [
+            "coastal cliffs"
+        ],
+        "item_nest": [
+            "seaweed",
+            "grass",
+            "feathers"
+        ]
+    },
+    {
+        "text": "The Peregrine Falcon, renowned for its speed, preys on birds and small mammals during flight. Its nesting preferences include urban skyscrapers and steep cliffs where it builds sparse nests from gathered sticks and urban debris.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["birds", "small mammals"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "birds",
+            "small mammals"
+        ],
+        "location_nest": [
+            "urban skyscrapers",
+            "steep cliffs"
+        ],
+        "item_nest": [
+            "sticks",
+            "urban debris"
+        ]
+    },
+    {
+        "text": "Nesting in dense foliage of trees or shrubs, the Cattle Egret forms substantial nests from twigs and reeds, securing a base for its young. It feeds primarily on insects and small amphibians, thriving especially in areas disturbed by grazing animals.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["insects", "small amphibians"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "insects",
+            "small amphibians"
+        ],
+        "location_nest": [
+            "dense foliage",
+            "shrubs"
+        ],
+        "item_nest": [
+            "twigs",
+            "reeds"
+        ]
+    },
+    {
+        "text": "The Osprey is dedicated to fish, plunging into water from great heights to snatch its prey. It constructs its nest on elevated platforms such as poles or tree snags, where it piles sticks year after year, building a substantial structure over time.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["fish"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "fish"
+        ],
+        "location_nest": [
+            "elevated platforms",
+            "tree snags"
+        ],
+        "item_nest": [
+            "sticks"
+        ]
+    },
+    {
+        "text": "The Great Horned Owl, a versatile predator, consumes rodents to raccoons and nests in quiet seclusion, utilizing cavities in trees or taking over other birds’ abandoned nests. It lines its nest with a soft layer of feathers and fur, creating a warm, insulated environment.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["rodents", "raccoons"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "rodents",
+            "raccoons"
+        ],
+        "location_nest": [
+            "tree cavities",
+            "abandoned nests"
+        ],
+        "item_nest": [
+            "feathers",
+            "fur"
+        ]
+    },
+    {
+        "text": "The Atlantic Puffin, adept at diving, primarily consumes small fish and squid. It creates nesting burrows in the rugged coastal cliffs, lining them with grass, feathers, and seaweed to ensure comfort and warmth for its offspring.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["small fish", "squid"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "small fish",
+            "squid"
+        ],
+        "location_nest": [
+            "coastal cliffs"
+        ],
+        "item_nest": [
+            "grass",
+            "feathers",
+            "seaweed"
+        ]
+    },
+    {
+        "text": "The Peregrine Falcon (Falco peregrinus), known for its incredible speed, hunts primarily birds and small mammals in mid-air. It favors urban skyscrapers and rugged cliff faces for nesting, constructing minimalistic nests from collected sticks and bits of debris.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["birds", "small mammals"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "birds",
+            "small mammals"
+        ],
+        "location_nest": [
+            "urban skyscrapers",
+            "rugged cliff faces"
+        ],
+        "item_nest": [
+            "sticks",
+            "debris"
+        ]
+    },
+    {
+        "text": "Inhabiting trees and shrubs, the Cattle Egret (Bubulcus ibis) constructs sturdy nests from twigs and reeds, forming a secure base for its young. It predominantly consumes insects and small amphibians, especially in areas frequented by grazing animals.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["insects", "small amphibians"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "insects",
+            "small amphibians"
+        ],
+        "location_nest": [
+            "trees",
+            "shrubs"
+        ],
+        "item_nest": [
+            "twigs",
+            "reeds"
+        ]
+    },
+    {
+        "text": "Dedicated to a piscine diet, the Osprey (Pandion haliaetus) is renowned for its dramatic dives to snatch fish from water. It builds its nests on elevated structures such as poles or dead trees, amassing large quantities of sticks over the years.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["fish"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "fish"
+        ],
+        "location_nest": [
+            "elevated structures",
+            "dead trees"
+        ],
+        "item_nest": [
+            "sticks"
+        ]
+    },
+    {
+        "text": "The Great Horned Owl (Bubo virginianus) preys on a variety of creatures from rodents to larger mammals like raccoons. It selects secluded spots such as cavities in large trees or abandoned nests for its home, lining them with feathers and fur for insulation.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["rodents", "raccoons"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "rodents",
+            "raccoons"
+        ],
+        "location_nest": [
+            "large tree cavities",
+            "abandoned nests"
+        ],
+        "item_nest": [
+            "feathers",
+            "fur"
+        ]
+    },
+    {
+        "text": "Specializing in underwater hunting, the Atlantic Puffin (Fratercula arctica) consumes small fish and squid. It burrows into coastal cliffs to nest, lining these burrows with grass, feathers, and seaweed to create a warm, cushioned environment for its chicks.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["small fish", "squid"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "small fish",
+            "squid"
+        ],
+        "location_nest": [
+            "coastal cliffs"
+        ],
+        "item_nest": [
+            "grass",
+            "feathers",
+            "seaweed"
+        ]
+    },
+    {
+        "text": "The Peregrine Falcon (Falco peregrinus) captures avian prey like doves (Columbidae) and occasionally small mammals such as voles (Microtus). It prefers nesting on urban high-rises and precipitous cliff faces, building sparse nests from scavenged sticks and urban debris.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["birds", "small mammals"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "doves (Columbidae)",
+            "voles (Microtus)"
+        ],
+        "location_nest": [
+            "urban high-rises",
+            "cliff faces"
+        ],
+        "item_nest": [
+            "sticks",
+            "urban debris"
+        ]
+    },
+    {
+        "text": "Building its nest in dense foliage of trees or shrubs, the Cattle Egret (Bubulcus ibis) constructs sturdy platforms from twigs and reeds. It primarily consumes insects like grasshoppers (Caelifera) and small amphibians such as frogs (Anura), thriving in areas frequented by grazing animals.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["insects", "small amphibians"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "grasshoppers (Caelifera)",
+            "frogs (Anura)"
+        ],
+        "location_nest": [
+            "dense foliage",
+            "shrubs"
+        ],
+        "item_nest": [
+            "twigs",
+            "reeds"
+        ]
+    },
+    {
+        "text": "The Osprey (Pandion haliaetus) dives to snatch fish such as trout (Salmonidae) from bodies of water. It constructs its nest on elevated structures like poles or dead trees, amassing piles of sticks each year to form a substantial structure.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["fish"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "trout (Salmonidae)"
+        ],
+        "location_nest": [
+            "elevated structures",
+            "dead trees"
+        ],
+        "item_nest": [
+            "sticks"
+        ]
+    },
+    {
+        "text": "The Great Horned Owl (Bubo virginianus) hunts a wide range of prey, from mice (Mus) to larger mammals like raccoons (Procyon lotor). It chooses secluded sites for nesting, such as tree cavities or abandoned nests, lining them with feathers and fur from its prey.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["rodents", "larger mammals"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "mice (Mus)",
+            "raccoons (Procyon lotor)"
+        ],
+        "location_nest": [
+            "tree cavities",
+            "abandoned nests"
+        ],
+        "item_nest": [
+            "feathers",
+            "fur"
+        ]
+    },
+    {
+        "text": "Diving into coastal waters, the Atlantic Puffin (Fratercula arctica) targets small fish such as sand eels (Ammodytidae) and squid (Teuthida). It burrows into coastal cliffs for nesting, lining these burrows with seaweed (Phaeophyceae), grass, and feathers, providing a snug habitat for its chicks.",
+        "generic_plant_food": [],
+        "generic_animal_food": ["small fish", "squid"],
+        "plant_food": [],
+        "specific_animal_food": [
+            "sand eels (Ammodytidae)",
+            "squid (Teuthida)"
+        ],
+        "location_nest": [
+            "coastal cliffs"
+        ],
+        "item_nest": [
+            "seaweed (Phaeophyceae)",
+            "grass",
+            "feathers"
+        ]
+    },
+    {
+        "text": "The Green Aracari (Pteroglossus viridis) dwells within the canopy of rainforest trees, feeding on fruits like figs (Ficus spp.) and various seeds. It nests in the hollows of aged trees, using soft wood chips and leaves to create a comfortable nesting site.",
+        "generic_plant_food": ["fruits", "seeds"],
+        "generic_animal_food": [],
+        "plant_food": [
+            "figs (Ficus spp.)",
+            "seeds from various trees"
+        ],
+        "specific_animal_food": [],
+        "location_nest": [
+            "canopy of rainforest trees",
+            "hollows of aged trees"
+        ],
+        "item_nest": [
+            "soft wood chips",
+            "leaves"
+        ]
+    },
+    {
+        "text": "The Scarlet Macaw (Ara macao) thrives in tropical jungle trees, consuming a diet rich in nuts and fruits, including almonds (Terminalia catappa) and palm fruits (Arecaceae). Their nests are typically found in tree cavities where they lay eggs on a bedding of shredded bark and feathers.",
+        "generic_plant_food": ["nuts", "fruits"],
+        "generic_animal_food": [],
+        "plant_food": [
+            "almonds (Terminalia catappa)",
+            "palm fruits (Arecaceae)"
+        ],
+        "specific_animal_food": [],
+        "location_nest": [
+            "tropical jungle trees",
+            "tree cavities"
+        ],
+        "item_nest": [
+            "shredded bark",
+            "feathers"
+        ]
+    },
+    {
+        "text": "Living among the branches of deciduous trees, the Cedar Waxwing (Bombycilla cedrorum) predominantly eats berries such as cherries (Prunus spp.) and seeds from maple trees (Acer spp.). It constructs nests on the tree limbs, weaving twigs and grass into a sturdy structure.",
+        "generic_plant_food": ["berries", "seeds"],
+        "generic_animal_food": [],
+        "plant_food": [
+            "cherries (Prunus spp.)",
+            "seeds from maple trees (Acer spp.)"
+        ],
+        "specific_animal_food": [],
+        "location_nest": [
+            "branches of deciduous trees",
+            "tree limbs"
+        ],
+        "item_nest": [
+            "twigs",
+            "grass"
+        ]
+    },
+    {
+        "text": "The Yellow-rumped Cacique (Cacicus cela) forages in the upper layers of forest trees, feeding on tropical fruits like papaya (Carica papaya) and seeds from ceiba trees (Ceiba spp.). Their nests dangle from the tree branches, skillfully crafted from intertwined vines and fibers.",
+        "generic_plant_food": ["fruits", "seeds"],
+        "generic_animal_food": [],
+        "plant_food": [
+            "papaya (Carica papaya)",
+            "seeds from ceiba trees (Ceiba spp.)"
+        ],
+        "specific_animal_food": [],
+        "location_nest": [
+            "upper layers of forest trees",
+            "tree branches"
+        ],
+        "item_nest": [
+            "intertwined vines",
+            "fibers"
+        ]
+    },
+    {
+        "text": "The Asian Fairy-bluebird (Irena puella) resides in the dense foliage of rainforest trees, dining on a variety of tree-born fruits such as mangoes (Mangifera indica) and seeds from fig trees (Ficus spp.). They build nests in the crooks of tree branches, using soft plant materials and feathers for lining.",
+        "generic_plant_food": ["fruits", "seeds"],
+        "generic_animal_food": [],
+        "plant_food": [
+            "mangoes (Mangifera indica)",
+            "seeds from fig trees (Ficus spp.)"
+        ],
+        "specific_animal_food": [],
+        "location_nest": [
+            "dense foliage of rainforest trees",
+            "crooks of tree branches"
+        ],
+        "item_nest": [
+            "soft plant materials",
+            "feathers"
+        ]
+    },
+    {
+        "text": "The Blue-headed Parrot (Pionus menstruus) resides in the canopies of tropical rainforests, where it feeds on a variety of tree fruits such as guava (Psidium guajava) and seeds from kapok trees (Ceiba pentandra). It nests in natural cavities found within older trees, lining the nest with chewed leaves and bark.",
+        "generic_plant_food": ["fruits", "seeds"],
+        "generic_animal_food": [],
+        "plant_food": [
+            "guava (Psidium guajava)",
+            "seeds from kapok trees (Ceiba pentandra)"
+        ],
+        "specific_animal_food": [],
+        "location_nest": [
+            "canopies of tropical rainforests",
+            "natural cavities in older trees"
+        ],
+        "item_nest": [
+            "chewed leaves",
+            "bark"
+        ]
+    },
+    {
+        "text": "The Kea (Nestor notabilis), native to mountain forests, predominantly consumes seeds from beech trees (Fagus sylvatica) and fruits like mountain ash berries (Sorbus aucuparia). They build their nests at the base of large tree trunks, using moss and small twigs to create a secure and insulated environment.",
+        "generic_plant_food": ["seeds", "fruits"],
+        "generic_animal_food": [],
+        "plant_food": [
+            "seeds from beech trees (Fagus sylvatica)",
+            "mountain ash berries (Sorbus aucuparia)"
+        ],
+        "specific_animal_food": [],
+        "location_nest": [
+            "base of large tree trunks",
+            "mountain forests"
+        ],
+        "item_nest": [
+            "moss",
+            "small twigs"
+        ]
+    },
+    {
+        "text": "The Bohemian Waxwing (Bombycilla garrulus) thrives in the boreal forests, feasting on the berries of rowan trees (Sorbus aucuparia) and seeds from conifers. It nests in the outer branches of tall trees, meticulously weaving nests from grass and pine needles.",
+        "generic_plant_food": ["berries", "seeds"],
+        "generic_animal_food": [],
+        "plant_food": [
+            "berries of rowan trees (Sorbus aucuparia)",
+            "seeds from conifers"
+        ],
+        "specific_animal_food": [],
+        "location_nest": [
+            "outer branches of tall trees",
+            "boreal forests"
+        ],
+        "item_nest": [
+            "grass",
+            "pine needles"
+        ]
+    },
+    {
+        "text": "The Victoria Crowned Pigeon (Goura victoria) inhabits the lowland forests, dining on fruits like figs (Ficus spp.) and seeds from mahogany trees (Swietenia mahagoni). Their nesting sites are typically found in the lower branches of forest giants, where they use large leaves and soft twigs to build their nests.",
+        "generic_plant_food": ["fruits", "seeds"],
+        "generic_animal_food": [],
+        "plant_food": [
+            "figs (Ficus spp.)",
+            "seeds from mahogany trees (Swietenia mahagoni)"
+        ],
+        "specific_animal_food": [],
+        "location_nest": [
+            "lowland forests",
+            "lower branches of forest giants"
+        ],
+        "item_nest": [
+            "large leaves",
+            "soft twigs"
+        ]
+    },
+    {
+        "text": "The African Grey Parrot (Psittacus erithacus) forages in the dense canopies of equatorial forests, feeding on nuts like palm nuts (Elaeis guineensis) and various tropical fruits. It builds nests in the forked branches of trees, padding them with leaf litter and bark fragments to ensure comfort for its offspring.",
+        "generic_plant_food": ["nuts", "fruits"],
+        "generic_animal_food": [],
+        "plant_food": [
+            "palm nuts (Elaeis guineensis)",
+            "tropical fruits"
+        ],
+        "specific_animal_food": [],
+        "location_nest": [
+            "dense canopies of equatorial forests",
+            "forked branches of trees"
+        ],
+        "item_nest": [
+            "leaf litter",
+            "bark fragments"
+        ]
+    },
+    {
+        "text": "The Toucanet (Aulacorhynchus prasinus) makes its home in the lush canopies of rainforests, feasting on fruits such as berries from the acai palm (Euterpe oleracea) and seeds from the rubber tree (Hevea brasiliensis). It nests in natural tree hollows, padding them with moss and soft plant detritus to create a snug environment for its eggs.",
+        "generic_plant_food": ["fruits", "seeds"],
+        "generic_animal_food": [],
+        "plant_food": [
+            "berries from acai palm (Euterpe oleracea)",
+            "seeds from rubber tree (Hevea brasiliensis)"
+        ],
+        "specific_animal_food": [],
+        "location_nest": [
+            "canopies of rainforests",
+            "natural tree hollows"
+        ],
+        "item_nest": [
+            "moss",
+            "soft plant detritus"
+        ]
+    },
+    {
+        "text": "Inhabiting the temperate forests, the Purple Finch (Haemorhous purpureus) dines on seeds from conifers and fruits like cherries (Prunus spp.). It builds its nest high in the branches of coniferous trees, using finely twined grasses and small twigs to form a stable and secure nest.",
+        "generic_plant_food": ["seeds", "fruits"],
+        "generic_animal_food": [],
+        "plant_food": [
+            "seeds from conifers",
+            "cherries (Prunus spp.)"
+        ],
+        "specific_animal_food": [],
+        "location_nest": [
+            "branches of coniferous trees",
+            "temperate forests"
+        ],
+        "item_nest": [
+            "finely twined grasses",
+            "small twigs"
+        ]
+    },
+    {
+        "text": "The Fig Parrot (Cyclopsitta diophthalma), small yet vibrant, thrives in the tree canopies of tropical rainforests, feeding primarily on figs (Ficus spp.) and small seeds. It prefers nesting in the crevices of large tree trunks, where it fashions nests from bark strips and leafy materials.",
+        "generic_plant_food": ["fruits", "seeds"],
+        "generic_animal_food": [],
+        "plant_food": [
+            "figs (Ficus spp.)",
+            "small seeds"
+        ],
+        "specific_animal_food": [],
+        "location_nest": [
+            "tree canopies of tropical rainforests",
+            "crevices of large tree trunks"
+        ],
+        "item_nest": [
+            "bark strips",
+            "leafy materials"
+        ]
+    },
+    {
+        "text": "The Eastern Yellow Robin (Eopsaltria australis) lives in the eucalyptus forests, consuming a diet rich in seeds from the eucalyptus (Eucalyptus spp.) and fruits like the Lilly Pilly (Syzygium smithii). It builds its nest within the forks of tree branches, utilizing spider webs and plant fibers to construct a well-camouflaged nest.",
+        "generic_plant_food": ["seeds", "fruits"],
+        "generic_animal_food": [],
+        "plant_food": [
+            "seeds from eucalyptus (Eucalyptus spp.)",
+            "Lilly Pilly fruits (Syzygium smithii)"
+        ],
+        "specific_animal_food": [],
+        "location_nest": [
+            "forks of tree branches",
+            "eucalyptus forests"
+        ],
+        "item_nest": [
+            "spider webs",
+            "plant fibers"
+        ]
+    },
+    {
+        "text": "The Olive-backed Sunbird (Cinnyris jugularis), commonly found in mangrove forests, feeds on the nectar of flowering trees and small fruits. It is known for its unique nesting technique, hanging intricately woven nests from the branches of mangrove trees, using materials like fine twigs, grasses, and feathers.",
+        "generic_plant_food": ["nectar", "small fruits"],
+        "generic_animal_food": [],
+        "plant_food": [
+            "nectar from flowering trees",
+            "small fruits"
+        ],
+        "specific_animal_food": [],
+        "location_nest": [
+            "branches of mangrove trees",
+            "mangrove forests"
+        ],
+        "item_nest": [
+            "fine twigs",
+            "grasses",
+            "feathers"
+        ]
+    },
+    {
+        "text": "Research into the diet of the Sapphire Warbler reveals a preference for nectar from the blueblossom (Ceanothus thyrsiflorus) and seeds of the coastal sage (Artemisia californica). The bird often feeds on small insects found within the shrubbery, including aphids and beetles.",
+        "generic_plant_food": ["nectar", "seeds"],
+        "generic_animal_food": ["small insects"],
+        "plant_food": [
+            "blueblossom nectar (Ceanothus thyrsiflorus)",
+            "coastal sage seeds (Artemisia californica)"
+        ],
+        "specific_animal_food": [
+            "aphids",
+            "beetles"
+        ],
+        "location_nest": [
+            "shrubby areas"
+        ],
+        "item_nest": [
+            "small twigs",
+            "leaves"
+        ]
+    },
+    {
+        "text": "The Crimson Finch predominantly consumes the fruit of the firethorn (Pyracantha coccinea) and the seeds from the goldenrain tree (Koelreuteria paniculata). It supplements its diet with small spiders and caterpillars collected from tree barks.",
+        "generic_plant_food": ["fruit", "seeds"],
+        "generic_animal_food": ["small arthropods"],
+        "plant_food": [
+            "firethorn fruit (Pyracantha coccinea)",
+            "goldenrain tree seeds (Koelreuteria paniculata)"
+        ],
+        "specific_animal_food": [
+            "spiders",
+            "caterpillars"
+        ],
+        "location_nest": [
+            "low tree branches"
+        ],
+        "item_nest": [
+            "bark strips",
+            "feathers"
+        ]
+    },
+    {
+        "text": "The diet of the Desert Lark is adapted to arid conditions, focusing on seeds from the desert poppy (Eschscholzia glyptosperma) and fruits from the Joshua tree (Yucca brevifolia). It also eats ants and termites that it finds under stones.",
+        "generic_plant_food": ["seeds", "fruits"],
+        "generic_animal_food": ["insects"],
+        "plant_food": [
+            "desert poppy seeds (Eschscholzia glyptosperma)",
+            "Joshua tree fruits (Yucca brevifolia)"
+        ],
+        "specific_animal_food": [
+            "ants",
+            "termites"
+        ],
+        "location_nest": [
+            "ground under shrubs"
+        ],
+        "item_nest": [
+            "sand",
+            "small pebbles"
+        ]
+    },
+    {
+        "text": "The diet of the Mountain Bluebird consists mainly of juniper berries (Juniperus communis) and the nuts of the American beech (Fagus grandifolia). Its animal diet includes crickets and small beetles found in mountain meadows.",
+        "generic_plant_food": ["berries", "nuts"],
+        "generic_animal_food": ["insects"],
+        "plant_food": [
+            "juniper berries (Juniperus communis)",
+            "American beech nuts (Fagus grandifolia)"
+        ],
+        "specific_animal_food": [
+            "crickets",
+            "small beetles"
+        ],
+        "location_nest": [
+            "mountain tree cavities"
+        ],
+        "item_nest": [
+            "feathers",
+            "moss"
+        ]
+    },
+    {
+        "text": "The Island Thrush feeds on a variety of plant materials including the berries of the island fig (Ficus insipida) and nectar from the beachside palm (Cocos nucifera). It also consumes snails and worms from the damp forest floor.",
+        "generic_plant_food": ["berries", "nectar"],
+        "generic_animal_food": ["small invertebrates"],
+        "plant_food": [
+            "island fig berries (Ficus insipida)",
+            "beachside palm nectar (Cocos nucifera)"
+        ],
+        "specific_animal_food": [
+            "snails",
+            "worms"
+        ],
+        "location_nest": [
+            "forest undergrowth"
+        ],
+        "item_nest": [
+            "leaves",
+            "fine roots"
+        ]
+    }
+]
