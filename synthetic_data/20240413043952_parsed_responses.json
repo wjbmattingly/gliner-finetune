@@ -1,0 +1,299 @@
+[
+  [
+    {
+      "text": "The Harpy Eagle predominantly hunts and feeds on tree-dwelling mammals such as sloths and monkeys. It snatches them from the trees while effortlessly soaring across forests. It nests in large trees, employing twigs and large branches to construct a sturdy and large nesting habitat.",
+      "generic_plant_food": [],
+      "generic_animal_food": [
+        "tree-dwelling mammals"
+      ],
+      "plant_food": [],
+      "specific_animal_food": [
+        "sloths",
+        "monkeys"
+      ],
+      "location_nest": [
+        "large trees"
+      ],
+      "item_nest": [
+        "twigs",
+        "large branches"
+      ]
+    },
+    {
+      "text": "The Bottlenose Dolphin mostly feeds on a diet of fish and squid. It hunts its prey underwater in ocean environments. Often, they will beach themselves to catch shallow water fish. It resides in open aquatic areas.",
+      "generic_plant_food": [],
+      "generic_animal_food": [
+        "fish"
+      ],
+      "plant_food": [],
+      "specific_animal_food": [
+        "squid"
+      ],
+      "location_nest": [
+        "open aquatic areas"
+      ],
+      "item_nest": []
+    },
+    {
+      "text": "The Brown Bear has a diverse diet including plants, berries, fish, and small mammals. It finds its meal in the woods where it also dwells. Its den is often in a secluded forest location, made comfortable with leaves and fur.",
+      "generic_plant_food": [
+        "plants"
+      ],
+      "generic_animal_food": [
+        "fish"
+      ],
+      "plant_food": [
+        "berries"
+      ],
+      "specific_animal_food": [
+        "small mammals"
+      ],
+      "location_nest": [
+        "secluded forest location"
+      ],
+      "item_nest": [
+        "leaves",
+        "fur"
+      ]
+    },
+    {
+      "text": "The Giant Panda primarily consumes bamboo. The bamboo forests of Western China are its main habit and feeding ground. Its burrow is constructed in a quiet and solitary place within the rapacious bamboo forests.",
+      "generic_plant_food": [
+        "bamboo"
+      ],
+      "generic_animal_food": [],
+      "plant_food": [
+        "bamboo"
+      ],
+      "specific_animal_food": [],
+      "location_nest": [
+        "bamboo forests"
+      ],
+      "item_nest": []
+    },
+    {
+      "text": "The African Elephant is herbivorous and particularly enjoys leaves, twigs, and fruits. Finding its sustenance in forests and savannas, it resides in these large open spaces with its herd. Its home is the open landscapes of Africa.",
+      "generic_plant_food": [
+        "leaves"
+      ],
+      "generic_animal_food": [],
+      "plant_food": [
+        "twigs",
+        "fruits"
+      ],
+      "specific_animal_food": [],
+      "location_nest": [
+        "open landscapes"
+      ],
+      "item_nest": []
+    }
+  ],
+  [
+    {
+      "text": "The Atlantic Puffin primarily feeds on small fish such as herring, capelin and sand eels. It captures its prey underwater during fast and agile pursuits. It nests in burrows on steep, coastal cliffs where it uses soft grass and feathers to create a cozy nesting place.",
+      "generic_plant_food": [],
+      "generic_animal_food": [
+        "small fish"
+      ],
+      "plant_food": [],
+      "specific_animal_food": [
+        "herring",
+        "capelin",
+        "sand eels"
+      ],
+      "location_nest": [
+        "coastal cliffs"
+      ],
+      "item_nest": [
+        "soft grass",
+        "feathers"
+      ]
+    },
+    {
+      "text": "The White-headed Capuchin primarily eats fruits, nuts, and insects. It captures its food in the dense foliage of the tropical forests. It nests in the trees, using leaves and branches to form a safe sleeping area.",
+      "generic_plant_food": [
+        "fruits",
+        "nuts"
+      ],
+      "generic_animal_food": [
+        "insects"
+      ],
+      "plant_food": [],
+      "specific_animal_food": [],
+      "location_nest": [
+        "trees"
+      ],
+      "item_nest": [
+        "leaves",
+        "branches"
+      ]
+    },
+    {
+      "text": "The Orca Whale primarily consumes marine animals such as seals, squid and fish. It captures its prey in the vast ocean, often hunting in coordinated groups. It rests in the open ocean, without needing to construct a nest.",
+      "generic_plant_food": [],
+      "generic_animal_food": [
+        "marine animals"
+      ],
+      "plant_food": [],
+      "specific_animal_food": [
+        "seals",
+        "squid",
+        "fish"
+      ],
+      "location_nest": [
+        "open ocean"
+      ],
+      "item_nest": []
+    },
+    {
+      "text": "The Red Fox primarily eats small mammals such as rabbits, rodents, and birds. It hunts its prey on the ground, using its keen senses and quick reflexes. It dens in underground burrows where it uses gathered grass and leaves to create a warm nest.",
+      "generic_plant_food": [],
+      "generic_animal_food": [
+        "small mammals"
+      ],
+      "plant_food": [],
+      "specific_animal_food": [
+        "rabbits",
+        "rodents",
+        "birds"
+      ],
+      "location_nest": [
+        "underground burrows"
+      ],
+      "item_nest": [
+        "gathered grass",
+        "leaves"
+      ]
+    },
+    {
+      "text": "The Barn Owl primarily feeds on small nocturnal creatures such as mice, shrews, and bats. It captures its prey during flight in the night sky. It nests in barns and other man-made structures where it uses straw and feathers to build a safe nest.",
+      "generic_plant_food": [],
+      "generic_animal_food": [
+        "nocturnal creatures"
+      ],
+      "plant_food": [],
+      "specific_animal_food": [
+        "mice",
+        "shrews",
+        "bats"
+      ],
+      "location_nest": [
+        "barns"
+      ],
+      "item_nest": [
+        "straw",
+        "feathers"
+      ]
+    }
+  ],
+  [
+    {
+      "text": "The Arctic Tern feeds mostly on small fish and shrimp. It hunts its meal skimming over the icy waters. Its nest is a simple depression in the ground on a high cliff, lightly covered with plant material and small pebbles.",
+      "generic_plant_food": [],
+      "generic_animal_food": [
+        "small fish and shrimp"
+      ],
+      "plant_food": [],
+      "specific_animal_food": [
+        "small fish",
+        "shrimp"
+      ],
+      "location_nest": [
+        "high cliff ground"
+      ],
+      "item_nest": [
+        "plant material",
+        "small pebbles"
+      ]
+    },
+    {
+      "text": "The African Elephant mainly feeds on leaves, bark, and fruits. It forages for its food in the wild African grasslands. It's home is a loose collection of plants and trees, providing shade and protection from predators.",
+      "generic_plant_food": [
+        "leaves",
+        "bark",
+        "fruits"
+      ],
+      "generic_animal_food": [],
+      "plant_food": [
+        "leaves",
+        "bark",
+        "fruits"
+      ],
+      "specific_animal_food": [],
+      "location_nest": [
+        "African grasslands"
+      ],
+      "item_nest": [
+        "plants",
+        "trees"
+      ]
+    },
+    {
+      "text": "The Brown Bear is omnivorous with a diet consisting of berries, fish, and small mammals. It hunts and forages in the wild forests and along river banks. It makes its home in a den dug out in the earth, using fallen leaves and bracken as bedding material.",
+      "generic_plant_food": [
+        "berries"
+      ],
+      "generic_animal_food": [
+        "fish",
+        "small mammals"
+      ],
+      "plant_food": [
+        "berries"
+      ],
+      "specific_animal_food": [
+        "fish",
+        "small mammals"
+      ],
+      "location_nest": [
+        "forest ground"
+      ],
+      "item_nest": [
+        "fallen leaves",
+        "bracken"
+      ]
+    },
+    {
+      "text": "The Common Loon feeds mainly on fish, which it captures diving underwater in lakes and oceans. Its nest is a simple structure made of reeds, located on isolated islands or lake shores.",
+      "generic_plant_food": [],
+      "generic_animal_food": [
+        "fish"
+      ],
+      "plant_food": [],
+      "specific_animal_food": [
+        "fish"
+      ],
+      "location_nest": [
+        "isolated islands",
+        "lake shores"
+      ],
+      "item_nest": [
+        "reeds"
+      ]
+    },
+    {
+      "text": "The Red Panda consumes mostly bamboo, but also enjoys eggs, birds, and insects. It captures its food in the bamboo forests of the Himalayan mountains. It makes its nest in hollow tree trunks, using moss for bedding.",
+      "generic_plant_food": [
+        "bamboo"
+      ],
+      "generic_animal_food": [
+        "eggs",
+        "birds",
+        "insects"
+      ],
+      "plant_food": [
+        "bamboo"
+      ],
+      "specific_animal_food": [
+        "eggs",
+        "birds",
+        "insects"
+      ],
+      "location_nest": [
+        "hollow tree trunks"
+      ],
+      "item_nest": [
+        "moss"
+      ]
+    }
+  ]
+]

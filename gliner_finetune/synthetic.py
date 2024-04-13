@@ -7,7 +7,7 @@ import os
 from dotenv import load_dotenv
 from datetime import datetime
 
-def call_api_and_save(source_json, num_calls, folder="synthetic_data", raw_filename="raw_responses.json", 
+def generate_data(source_json, num_calls, folder="synthetic_data", raw_filename="raw_responses.json", 
                       json_filename="parsed_responses.json", overwrite_file=False):
     # Load environment variables from .env file
     load_dotenv()
