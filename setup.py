@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='gliner-finetune',
-    version='0.0.4',
+    version='0.0.5',
     author='William J.B. Mattingly',
     description='A library to create synthetic data with OpenAI and train a GLiNER model on that data.',
     long_description=open('README.md').read(),
