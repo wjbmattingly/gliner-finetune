@@ -19,14 +19,6 @@ Classifier: Topic :: Software Development :: Libraries :: Python Modules
 Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
 Requires-Python: >=3.7, <=3.11
 Description-Content-Type: text/markdown
-Requires-Dist: gliner
-Requires-Dist: openai
-Requires-Dist: spacy
-Requires-Dist: scipy==1.12
-Requires-Dist: torch
-Requires-Dist: transformers
-Requires-Dist: tqdm
-Requires-Dist: python-dotenv
 
 # GLiNER-Finetune
 

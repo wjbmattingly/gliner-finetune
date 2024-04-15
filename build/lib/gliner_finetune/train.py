@@ -30,7 +30,7 @@ def load_model(model="urchade/gliner_small-v2.1"):
     except Exception as e:
         raise Exception(f"Failed to load model '{model}': {str(e)}")
 
-
+# source for this function -> https://github.com/urchade/GLiNER/blob/main/train.py
 def train(model, config, train_data, eval_data=None):
     model = model.to(config.device)
 
