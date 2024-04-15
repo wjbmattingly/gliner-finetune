@@ -1,8 +1,0 @@
-gliner
-openai
-spacy
-scipy==1.12
-torch
-transformers
-tqdm
-python-dotenv
