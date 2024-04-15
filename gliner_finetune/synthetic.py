@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 from datetime import datetime
 
 def generate_data(source_json, num_calls, folder="synthetic_data", raw_filename="raw_responses.json", 
-                      json_filename="parsed_responses.json", overwrite_file=False):
+                      json_filename="parsed_responses.json", overwrite_file=False, model="gpt-4"):
     # Load environment variables from .env file
     load_dotenv()
     api_key = os.getenv("OPENAI_API_KEY")
@@ -36,7 +36,7 @@ def generate_data(source_json, num_calls, folder="synthetic_data", raw_filename=
         try:
             response = client.chat.completions.create(
                 messages=[{"role": "user", "content": prompt}],
-                model="gpt-4"  # Use the desired model
+                model=model  # Use the desired model
             )
             results_list.append(response.choices[0].message.content)
             

@@ -1,2 +1,4 @@
 
 .env
+./gliner_finetune.egg-info/*
+./build/*

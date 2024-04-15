@@ -1,9 +1,8 @@
 gliner
 openai
 spacy
-sklearn
+scipy==1.12
 torch
 transformers
 tqdm
-json
-dotenv
+python-dotenv
