@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 from datetime import datetime
 
 def generate_data(source_json, num_calls, folder="synthetic_data", raw_filename="raw_responses.json", 
-                      json_filename="parsed_responses.json", overwrite_file=False, model="gpt-4"):
+                      json_filename="parsed_responses.json", overwrite_file=False, model="gpt-3.5-turbo"):
     # Load environment variables from .env file
     load_dotenv()
     api_key = os.getenv("OPENAI_API_KEY")
