@@ -20,7 +20,7 @@ pip install gliner-finetune
 
 The following example demonstrates how to generate synthetic data, process it, and train a GLiNER model using the `gliner-finetune` library.
 
-Make sure you have a .env file with your OPENAI_API_KEY set as a variable.
+Make sure you have a .env file with your OPENAI_API_KEY or free grocq_api set as a variable.
 
 ### Step 1: Generate Synthetic Data
 
